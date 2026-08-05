@@ -1,0 +1,29 @@
+C:\Users\Zona Tech\Downloads\Intense Rp Projeto by 2025 Apx\gamemodes\STRG.pwn(10853) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\Zona Tech\Downloads\Intense Rp Projeto by 2025 Apx\gamemodes\STRG.pwn(10871) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\Zona Tech\Downloads\Intense Rp Projeto by 2025 Apx\gamemodes\STRG.pwn(10884) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\Zona Tech\Downloads\Intense Rp Projeto by 2025 Apx\gamemodes\STRG.pwn(10929) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\Zona Tech\Downloads\Intense Rp Projeto by 2025 Apx\gamemodes\STRG.pwn(10934) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\Zona Tech\Downloads\Intense Rp Projeto by 2025 Apx\gamemodes\STRG.pwn(11026) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "randphone"
+C:\Users\Zona Tech\Downloads\Intense Rp Projeto by 2025 Apx\gamemodes\STRG.pwn(11076) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\Zona Tech\Downloads\Intense Rp Projeto by 2025 Apx\gamemodes\STRG.pwn(12614) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\Zona Tech\Downloads\Intense Rp Projeto by 2025 Apx\gamemodes\STRG.pwn(12619) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\Zona Tech\Downloads\Intense Rp Projeto by 2025 Apx\gamemodes\STRG.pwn(12624) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\Zona Tech\Downloads\Intense Rp Projeto by 2025 Apx\gamemodes\STRG.pwn(12629) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\Zona Tech\Downloads\Intense Rp Projeto by 2025 Apx\gamemodes\STRG.pwn(17792) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "randphone"
+C:\Users\Zona Tech\Downloads\Intense Rp Projeto by 2025 Apx\gamemodes\STRG.pwn(34970) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "playerid"
+C:\Users\Zona Tech\Downloads\Intense Rp Projeto by 2025 Apx\gamemodes\STRG.pwn(43943) : ïðåäóïðåæäåíèå 225: íåäîñòèæèìûé êîä
+C:\Users\Zona Tech\Downloads\Intense Rp Projeto by 2025 Apx\gamemodes\STRG.pwn(49663) : ïðåäóïðåæäåíèå 213: íåñîâïàäåíèå òèïîâ
+C:\Users\Zona Tech\Downloads\Intense Rp Projeto by 2025 Apx\gamemodes\STRG.pwn(60099) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "anovafak4"
+C:\Users\Zona Tech\Downloads\Intense Rp Projeto by 2025 Apx\gamemodes\STRG.pwn(50799) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "lojinhavsrp"
+C:\Users\Zona Tech\Downloads\Intense Rp Projeto by 2025 Apx\gamemodes\STRG.pwn(78754) : ïðåäóïðåæäåíèå 209: ôóíêöèÿ "cmd_carmec" äîëæíà âîçâðàùàòü çíà÷åíèå
+C:\Users\Zona Tech\Downloads\Intense Rp Projeto by 2025 Apx\gamemodes\STRG.pwn(87570) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Zona Tech\Downloads\Intense Rp Projeto by 2025 Apx\gamemodes\STRG.pwn(93175) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\Zona Tech\Downloads\Intense Rp Projeto by 2025 Apx\gamemodes\STRG.pwn(115716) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\Zona Tech\Downloads\Intense Rp Projeto by 2025 Apx\gamemodes\STRG.pwn(133792) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "string"
+C:\Users\Zona Tech\Downloads\Intense Rp Projeto by 2025 Apx\gamemodes\STRG.pwn(133775) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "result"
+C:\Users\Zona Tech\Downloads\Intense Rp Projeto by 2025 Apx\gamemodes\STRG.pwn(1813) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "DisputaJagata"
+C:\Users\Zona Tech\Downloads\Intense Rp Projeto by 2025 Apx\gamemodes\STRG.pwn(91) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "Logado"
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Ïðåäóïðåæäåíèé:14.

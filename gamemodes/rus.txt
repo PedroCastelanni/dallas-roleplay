@@ -1,0 +1,34 @@
+C:\Users\DANIEL\Downloads\GM BY SBX\gamemodes\RCK.pwn(10996) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\DANIEL\Downloads\GM BY SBX\gamemodes\RCK.pwn(11014) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\DANIEL\Downloads\GM BY SBX\gamemodes\RCK.pwn(11027) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\DANIEL\Downloads\GM BY SBX\gamemodes\RCK.pwn(11072) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\DANIEL\Downloads\GM BY SBX\gamemodes\RCK.pwn(11077) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\DANIEL\Downloads\GM BY SBX\gamemodes\RCK.pwn(11169) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "randphone"
+C:\Users\DANIEL\Downloads\GM BY SBX\gamemodes\RCK.pwn(11219) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\DANIEL\Downloads\GM BY SBX\gamemodes\RCK.pwn(12757) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\DANIEL\Downloads\GM BY SBX\gamemodes\RCK.pwn(12762) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\DANIEL\Downloads\GM BY SBX\gamemodes\RCK.pwn(12767) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\DANIEL\Downloads\GM BY SBX\gamemodes\RCK.pwn(12772) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\DANIEL\Downloads\GM BY SBX\gamemodes\RCK.pwn(17935) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "randphone"
+C:\Users\DANIEL\Downloads\GM BY SBX\gamemodes\RCK.pwn(35113) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "playerid"
+C:\Users\DANIEL\Downloads\GM BY SBX\gamemodes\RCK.pwn(44062) : ïðåäóïðåæäåíèå 225: íåäîñòèæèìûé êîä
+C:\Users\DANIEL\Downloads\GM BY SBX\gamemodes\RCK.pwn(49753) : ïðåäóïðåæäåíèå 213: íåñîâïàäåíèå òèïîâ
+C:\Users\DANIEL\Downloads\GM BY SBX\gamemodes\RCK.pwn(54784) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\DANIEL\Downloads\GM BY SBX\gamemodes\RCK.pwn(54786) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\DANIEL\Downloads\GM BY SBX\gamemodes\RCK.pwn(54788) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\DANIEL\Downloads\GM BY SBX\gamemodes\RCK.pwn(54790) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\DANIEL\Downloads\GM BY SBX\gamemodes\RCK.pwn(54792) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\DANIEL\Downloads\GM BY SBX\gamemodes\RCK.pwn(62927) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "anovafak4"
+C:\Users\DANIEL\Downloads\GM BY SBX\gamemodes\RCK.pwn(50888) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "lojinhavsrp"
+C:\Users\DANIEL\Downloads\GM BY SBX\gamemodes\RCK.pwn(81024) : ïðåäóïðåæäåíèå 209: ôóíêöèÿ "cmd_carmec" äîëæíà âîçâðàùàòü çíà÷åíèå
+C:\Users\DANIEL\Downloads\GM BY SBX\gamemodes\RCK.pwn(89840) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\DANIEL\Downloads\GM BY SBX\gamemodes\RCK.pwn(95445) : ïðåäóïðåæäåíèå 202: êîëè÷åñòâî àðãóìåíòîâ íå ñîâïàäàåò ñ îáúÿâëåíèåì
+C:\Users\DANIEL\Downloads\GM BY SBX\gamemodes\RCK.pwn(117986) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\DANIEL\Downloads\GM BY SBX\gamemodes\RCK.pwn(136057) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "string"
+C:\Users\DANIEL\Downloads\GM BY SBX\gamemodes\RCK.pwn(136040) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "result"
+C:\Users\DANIEL\Downloads\GM BY SBX\gamemodes\RCK.pwn(1813) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "DisputaJagata"
+C:\Users\DANIEL\Downloads\GM BY SBX\gamemodes\RCK.pwn(91) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "Logado"
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Ïðåäóïðåæäåíèé:19.

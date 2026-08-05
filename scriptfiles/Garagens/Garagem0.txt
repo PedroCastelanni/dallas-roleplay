@@ -1,0 +1,6 @@
+X = 1286.79858398
+Y = -1329.27246093
+Z = 13.55485343
+Lock = 1
+Dono = Apx_Dygeras
+Comentario = fds
